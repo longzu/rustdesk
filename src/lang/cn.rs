@@ -3,7 +3,7 @@ pub static ref T: std::collections::HashMap<&'static str, &'static str> =
     [
         ("Status", "状态"),
         ("Your Desktop", "你的桌面"),
-        ("desk_tip", "南京阔友信息技术有限公司\n特别发行版 V1.0\n你的桌面可以通过下面的 ID 和密码访问。"),
+        ("desk_tip", "南京阔友信息技术有限公司\n特别发行版 V1.0\n\n你的桌面可以通过下面的 ID 和密码访问。"),
         ("Password", "密码"),
         ("Ready", "就绪"),
         ("Established", "已建立"),
